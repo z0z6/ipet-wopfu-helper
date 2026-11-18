@@ -1,0 +1,13 @@
+{
+  "appId": "pl.z0z6.asystentipet",
+  "appName": "Asystent IPET",
+  "webDir": "src/renderer",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
